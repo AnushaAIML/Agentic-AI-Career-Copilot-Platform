@@ -1,40 +1,29 @@
 # Python
+venv/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 
-# Virtual Environment
-venv/
+# Secrets
 .env
+.env.*
+
+# HuggingFace cache
+.huggingface/
+HF Token.txt
+
+# FAISS
+*.faiss
 
 # Node
 node_modules/
-
-# IDE
-.vscode/
-.idea/
 
 # OS
 .DS_Store
 Thumbs.db
 
-# Build
-dist/
-build/
+# IDE
+.vscode/
+.idea/
 
 # Logs
 *.log
-
-# Vector DB
-*.faiss
-*.pkl
-
-# Environment
-.env.local
-.env.productionx
-
-venv/
-.env
-node_modules/
-HF Token.txt
