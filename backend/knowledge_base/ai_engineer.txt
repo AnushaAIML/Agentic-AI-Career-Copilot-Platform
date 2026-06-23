@@ -1,0 +1,24 @@
+AI Engineers should understand Python, Machine Learning,
+Deep Learning, FastAPI, Model Deployment, Docker,
+Cloud Platforms, MLOps, and Software Engineering.
+
+Important skills:
+
+Python
+PyTorch
+TensorFlow
+FastAPI
+Docker
+AWS
+Azure
+GCP
+Git
+CI/CD
+
+Common responsibilities:
+
+Build AI systems
+Deploy ML models
+Create APIs
+Optimize inference
+Monitor production models

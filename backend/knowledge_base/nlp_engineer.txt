@@ -1,0 +1,27 @@
+NLP Engineers build systems that understand and generate human language.
+
+Core Skills:
+
+Python
+NLP
+Transformers
+LLMs
+Prompt Engineering
+LangChain
+LangGraph
+RAG
+
+Libraries:
+
+Hugging Face
+spaCy
+NLTK
+Sentence Transformers
+
+Projects:
+
+Chatbots
+Document Q&A
+RAG Systems
+Text Classification
+Summarization Systems

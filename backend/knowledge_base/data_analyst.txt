@@ -1,0 +1,25 @@
+Data Analysts transform raw data into actionable business insights.
+
+Core Skills:
+
+SQL
+Excel
+Python
+Statistics
+Power BI
+Tableau
+
+Responsibilities:
+
+Data Cleaning
+Reporting
+Dashboard Development
+Trend Analysis
+Business Analysis
+
+Recommended Projects:
+
+Sales Dashboard
+Customer Analytics
+Marketing Analytics
+Business KPI Tracking

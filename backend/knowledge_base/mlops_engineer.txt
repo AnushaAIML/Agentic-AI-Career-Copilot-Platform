@@ -1,0 +1,30 @@
+MLOps Engineers manage machine learning infrastructure and deployment pipelines.
+
+Core Skills:
+
+Docker
+Kubernetes
+MLflow
+GitHub Actions
+CI/CD
+Monitoring
+
+Cloud:
+
+AWS
+Azure
+GCP
+
+Responsibilities:
+
+Model Deployment
+Pipeline Automation
+Monitoring
+Infrastructure Management
+Version Control
+
+Projects:
+
+Automated ML Pipelines
+Model Monitoring Systems
+Deployment Platforms

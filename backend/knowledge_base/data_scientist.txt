@@ -1,0 +1,38 @@
+Data Scientists work with data to generate insights, build predictive models, and support business decisions.
+
+Core Skills:
+
+Python
+SQL
+Statistics
+Probability
+Machine Learning
+Data Visualization
+Pandas
+NumPy
+Scikit-Learn
+
+Tools:
+
+Jupyter Notebook
+Power BI
+Tableau
+Excel
+Git
+
+Responsibilities:
+
+Data Cleaning
+Exploratory Data Analysis
+Feature Engineering
+Model Building
+Model Evaluation
+Business Insights
+
+Recommended Projects:
+
+Customer Churn Prediction
+Sales Forecasting
+Recommendation Systems
+Fraud Detection
+Sentiment Analysis

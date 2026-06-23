@@ -1,0 +1,19 @@
+Generative AI Engineers should understand:
+
+Large Language Models
+Prompt Engineering
+LangChain
+LangGraph
+RAG
+Embeddings
+FAISS
+Vector Databases
+Agents
+
+Common tasks:
+
+Build AI Assistants
+Create Agent Workflows
+Develop RAG Pipelines
+Integrate LLM APIs
+Evaluate LLM Responses

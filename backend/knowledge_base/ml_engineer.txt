@@ -1,0 +1,39 @@
+Machine Learning Engineers build, deploy, and maintain machine learning systems.
+
+Core Skills:
+
+Python
+Machine Learning
+Deep Learning
+Scikit-Learn
+PyTorch
+TensorFlow
+
+Deployment Skills:
+
+FastAPI
+Docker
+Kubernetes
+MLflow
+CI/CD
+
+Cloud:
+
+AWS
+Azure
+GCP
+
+Responsibilities:
+
+Train Models
+Deploy Models
+Optimize Inference
+Monitor Models
+Build ML Pipelines
+
+Recommended Projects:
+
+End-to-End ML Pipelines
+Recommendation Systems
+Predictive Analytics
+MLOps Projects

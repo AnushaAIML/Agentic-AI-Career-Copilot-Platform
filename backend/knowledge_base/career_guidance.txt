@@ -1,0 +1,21 @@
+For AI and ML roles:
+
+Build strong projects.
+
+Recommended projects:
+
+Computer Vision
+NLP
+Agentic AI
+RAG Systems
+MLOps Pipelines
+
+Learn:
+
+Python
+SQL
+Docker
+Git
+Cloud Platforms
+
+Maintain GitHub repositories with documentation.

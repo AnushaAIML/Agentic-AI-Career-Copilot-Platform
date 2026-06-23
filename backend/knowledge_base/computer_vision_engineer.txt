@@ -1,0 +1,27 @@
+Computer Vision Engineers develop systems that analyze images and videos.
+
+Core Skills:
+
+Python
+OpenCV
+PyTorch
+TensorFlow
+CNNs
+YOLO
+Object Detection
+Image Classification
+
+Projects:
+
+Pneumonia Detection
+Face Recognition
+Traffic Monitoring
+Defect Detection
+Medical Imaging
+
+Responsibilities:
+
+Data Annotation
+Model Training
+Inference Optimization
+Deployment
