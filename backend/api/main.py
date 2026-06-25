@@ -25,7 +25,7 @@ from backend.api.routes.chat import router as chat_router
 from backend.api.routes.resume import router as resume_router
 from backend.api.routes.jd_match import router as jd_router
 from backend.api.routes.interview import router as interview_router
-from backend.api.routes.career import router as career_router
+#from backend.api.routes.career import router as career_router
 
 app = FastAPI(
     title="Agentic Career Platform"
@@ -42,7 +42,7 @@ app.include_router(chat_router)
 app.include_router(resume_router)
 app.include_router(jd_router)
 app.include_router(interview_router)
-app.include_router(career_router)
+# app.include_router(career_router)
 
 
 @app.get("/")
